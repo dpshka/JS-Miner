@@ -1,0 +1,286 @@
+export default {
+  "Getcontact Web": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact Web"])},
+  "Premium ve Tariffs": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Premium A%0 2)5"])},
+  "Features": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@-#L"])},
+  "Success Story": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*-#5H'2!*3@#G"])},
+  "About Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5H"'1"])},
+  "Career": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2
+5"])},
+  "Help": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'2!
+H'"@+%7-"])},
+  "Support Center": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["32!5HH-""])},
+  "Manage Profile Privacy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["12#B#D%L*H'1'-8"])},
+  "Report a Problem": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#2"21+2"])},
+  "Contact Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4H-@#2"])},
+  "Legal Terms": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2#I-I-!9%"])},
+  "Privacy Policy / GDPR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Política de Privacidad"])},
+  "Terms of Service": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["I-%2#C+I#42#-@#2"])},
+  "Purchasing Policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B"2"2#7I--@#2"])},
+  "Google login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@I2#01 Google"])},
+  "Facebook login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@I2#01 Facebook"])},
+  "Apple login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@I2#01 Apple"])},
+  "403012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!2"@%!5I-4%2 B#4H-@#2"])},
+  "countries": {
+    "AF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-124*2"])},
+    "AL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-%@@5""])},
+    "DZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-%5@#5""])},
+    "AS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-@!#412!1'"])},
+    "AD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-1-#L#2"])},
+    "AO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-B%2"])},
+    "AI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-'4%%2"])},
+    "AQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-2#L42"])},
+    "AG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-42A%02#L92"])},
+    "AR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2#L@42"])},
+    "AM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2#L@!@5""])},
+    "AW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2#92"])},
+    "AU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["--*@#@%5""])},
+    "AT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["--*@#5""])},
+    "AZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2@-#LD2"])},
+    "BS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2.2!2*"])},
+    "BH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2+L@#"])},
+    "BD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1%2@("])},
+    "BB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2#L@B*"])},
+    "BY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@%2#8*"])},
+    "BE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@%@"5"!"])},
+    "BZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@%5"])},
+    "BJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@4"])},
+    "BM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-#L!4'2"])},
+    "BT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 92"])},
+    "BO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B%4@'5""])},
+    "BA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-*@5"A%0@.-#L@B'52"])},
+    "BW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-*'22"])},
+    "BR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#24%"])},
+    "IO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#44
+-4@5"B-@
+5"@#L#4-#5"])},
+    "VG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20#44
+@'-#L4"])},
+    "BN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#9D"])},
+    "BG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1%A@#5""])},
+    "BF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9#L422B"])},
+    "BI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8#85"])},
+    "KH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1!9
+2"])},
+    "CM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A@!-#9"])},
+    "CA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A22"])},
+    "CV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@@'4#L"])},
+    "KY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20@"LA!"])},
+    "CF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*22##1A-#42%2"])},
+    "TD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["
+2"])},
+    "CL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["
+4%5"])},
+    "CN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5"])},
+    "CX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@20#4*L!2*"])},
+    "CC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20BB* (5%4)"])},
+    "CO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B%-!@5""])},
+    "KM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-B!B#*"])},
+    "CK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@208"])},
+    "CR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-*2#42"])},
+    "HR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B#@-@
+5""])},
+    "CU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4'2"])},
+    "CW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9#2@2"])},
+    "CY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D#1*"])},
+    "CZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@
+G"])},
+    "CD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-B - 4
+22"])},
+    "DK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@!2#L"])},
+    "DJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["495"])},
+    "DM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B!442"])},
+    "DO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*22##1B!441"])},
+    "TL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4!-#L-@%*@"])},
+    "EC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-'2-#L"])},
+    "EG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-5"4L"])},
+    "SV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-%1%'2-#L"])},
+    "GQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4@'-@#5"%45"])},
+    "ER": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-#4@#5""])},
+    "EE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-*B@5""])},
+    "ET": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-4B-@5""])},
+    "FK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20-%LA%L"])},
+    "FO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20AB#"])},
+    "FJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["44"])},
+    "FI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4A%L"])},
+    "FR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#1H@(*"])},
+    "GF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#
+L@5"2"])},
+    "PF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#
+LB%45@5""])},
+    "GA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2-"])},
+    "GM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A!@5""])},
+    "GE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-#L@5""])},
+    "DE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@"-#!5"])},
+    "GH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["22"])},
+    "GI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""4#-%2#L"])},
+    "GR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#5"])},
+    "GL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#5A%L"])},
+    "GD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#@2"])},
+    "GP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'2@-%9"])},
+    "GU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'!"])},
+    "GT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1'@!2%2"])},
+    "GG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@4#L5"L"])},
+    "GN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["45"])},
+    "GW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["45-4*@2"])},
+    "GY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2"-22"])},
+    "HT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@.4"])},
+    "HN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([".-9#1*"])},
+    "HK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#-4@().H-A+H*22##1#0
+2
+5"])},
+    "HU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([".12#5"])},
+    "IS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D-LA%L"])},
+    "IN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4@5""])},
+    "ID": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4B5@5""])},
+    "IR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4+#H2"])},
+    "IQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4#1"])},
+    "IE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D-#LA%L"])},
+    "IM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@20A!"])},
+    "IL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-4*#2@-%"])},
+    "IT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-42%5"])},
+    "CI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B4'1'#L"])},
+    "JM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2@!2"])},
+    "JP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5H8H"])},
+    "JE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-#L5"L"])},
+    "JO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-#LA"])},
+    "KZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["21*2"])},
+    "KE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@"2"])},
+    "KI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4#42*"])},
+    "XK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["BBB'"])},
+    "KW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2@%2"])},
+    "KG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5#L5*2"])},
+    "LA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%2'"])},
+    "LV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%1@'5""])},
+    "LB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@%2-"])},
+    "LS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@%BB"])},
+    "LR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D%5@#5""])},
+    "LY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%4@5""])},
+    "LI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%4@*DL"])},
+    "LT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%41'@5""])},
+    "LU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%1@!@4#L"])},
+    "MO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#-4@()!2@J2A+H*22##1#0
+2
+5"])},
+    "MK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!24B@5"@+7-"])},
+    "MG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!221*2#L"])},
+    "MW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2%2'5"])},
+    "MY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2@%@5""])},
+    "MV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!1%5*L"])},
+    "ML": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2%5"])},
+    "MT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-%2"])},
+    "MH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20!2#LA
+%%L"])},
+    "MQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2#L45"])},
+    "MR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-#4@@5""])},
+    "MU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-#4@
+5"*"])},
+    "YT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2"-"])},
+    "MX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@!G4B"])},
+    "FM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D!B#5@5""])},
+    "MD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-%B'2"])},
+    "MC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B!2B"])},
+    "MN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-B@%5""])},
+    "ME": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-@@B#"])},
+    "MS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!-L@-#L#1"])},
+    "MA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B!#G-B"])},
+    "MZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B!1!4"])},
+    "MM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@!5"!2#L (!H2)"])},
+    "NA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2!4@5""])},
+    "NR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2-9#9"])},
+    "NP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@2%"])},
+    "NL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@@-#LA%L"])},
+    "NC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4'A%4B@5""])},
+    "NZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4'5A%L"])},
+    "NI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["42#21'"])},
+    "NE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D@-#L"])},
+    "NG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D5@#5""])},
+    "NU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5-9@-"])},
+    "NF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@20-#L-%L"])},
+    "KP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@2+%5@+7-"])},
+    "MP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20-#L@4#L!2@#5"2"])},
+    "NO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-#L@'"L"])},
+    "OM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B-!2"])},
+    "PK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["25*2"])},
+    "PS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4A2@%*DL"])},
+    "PA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["22!2"])},
+    "PG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["21'4'45"])},
+    "PY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2#2'1""])},
+    "PE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#9"])},
+    "PH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4%44*L"])},
+    "PN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@204A#L"])},
+    "PL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["BA%L"])},
+    "PT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B#8@*"])},
+    "PR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-#LB#4B"])},
+    "QA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["22#L"])},
+    "CG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-B - #22'4%"])},
+    "RE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@#-95""])},
+    "RO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B#!2@5""])},
+    "RU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#1*@5""])},
+    "RW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#'12"])},
+    "BL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L2#L@@%!5"])},
+    "SH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L@.@%2"])},
+    "KN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L4*LA%0@'4*"])},
+    "LC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L%9@5""])},
+    "MF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L!2#L4"])},
+    "PM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A5A"#LA%0!5@-%"])},
+    "VC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@L'4@LA%0@#25*L"])},
+    "WS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2!1'"])},
+    "SM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2!2#4B"])},
+    "ST": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@29@!A%0#445"])},
+    "SA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2-85-2#0@5""])},
+    "SN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@@1%"])},
+    "RS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-#L@5""])},
+    "SC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@@
+%*L"])},
+    "SL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5"#L#2%5B-"])},
+    "SG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*4B#L"])},
+    "SX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4L!2#L@"])},
+    "SK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*B%'0@5""])},
+    "SI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*B%'5@5""])},
+    "SB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20BB%!-"])},
+    "SO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B!2@%5""])},
+    "ZA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A-#42CI"])},
+    "KR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@2+%5CI"])},
+    "SS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["92CI"])},
+    "ES": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*@"])},
+    "LK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(#5%12"])},
+    "SD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["92"])},
+    "SR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9#42@!"])},
+    "SJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*2%2#LA%0"2D!@-"])},
+    "SZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@-*'255"])},
+    "SE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*'5@"])},
+    "CH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*'4@-#LA%L"])},
+    "SY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@#5""])},
+    "TW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["DI+'1"])},
+    "TJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["244*2"])},
+    "TZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A2@5""])},
+    "TH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D""])},
+    "TG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["BB"])},
+    "TK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B@@%2"])},
+    "TO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-2"])},
+    "TT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#44AA%0B@B"])},
+    "TN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["94@5""])},
+    "TR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8#5"])},
+    "TM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@4#L@!4*2"])},
+    "TC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20@4*LA%0+!9H@20@-*"])},
+    "TV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9'2%9"])},
+    "VI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+!9H@20@'-#L4-*+#1-@!#42"])},
+    "UG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""912"])},
+    "UA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""9@#"])},
+    "AE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*+#1-2+#1@-!4@#*L"])},
+    "GB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*+#2
+-221#"])},
+    "US": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*+#1-@!#42"])},
+    "UY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-8#8'1""])},
+    "UZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-8@4*2"])},
+    "VU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'29-29"])},
+    "VA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#'241"])},
+    "VE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@'@8@-%2"])},
+    "VN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@'5"2!"])},
+    "WF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'2%%4*A%0892"])},
+    "EH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!.."])},
+    "YE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@"@!"])},
+    "ZM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A!@5""])},
+    "ZW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4!1@'"])}
+  }
+}

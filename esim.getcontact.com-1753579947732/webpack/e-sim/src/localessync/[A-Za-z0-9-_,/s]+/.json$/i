@@ -1,0 +1,55 @@
+var map = {
+	"./af.json": 966,
+	"./ar.json": 5284,
+	"./az.json": 9389,
+	"./de.json": 7480,
+	"./en.json": 3482,
+	"./es.json": 3063,
+	"./es_cl.json": 7648,
+	"./es_co.json": 7386,
+	"./es_mx.json": 5277,
+	"./es_pe.json": 1415,
+	"./fr.json": 5627,
+	"./hi.json": 3928,
+	"./hy.json": 1023,
+	"./id.json": 2692,
+	"./it.json": 2795,
+	"./ka.json": 2292,
+	"./kk.json": 1370,
+	"./ky.json": 9528,
+	"./mn.json": 1293,
+	"./ms.json": 4105,
+	"./ne.json": 7215,
+	"./nl.json": 9376,
+	"./pt.json": 342,
+	"./pt_br.json": 1908,
+	"./ro.json": 579,
+	"./ru.json": 5521,
+	"./tg.json": 3618,
+	"./th.json": 3210,
+	"./tl.json": 4960,
+	"./tr.json": 8851,
+	"./uk.json": 9338,
+	"./uz.json": 6201,
+	"./vi.json": 9665
+};
+
+
+function webpackContext(req) {
+	var id = webpackContextResolve(req);
+	return __webpack_require__(id);
+}
+function webpackContextResolve(req) {
+	if(!__webpack_require__.o(map, req)) {
+		var e = new Error("Cannot find module '" + req + "'");
+		e.code = 'MODULE_NOT_FOUND';
+		throw e;
+	}
+	return map[req];
+}
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 8973;

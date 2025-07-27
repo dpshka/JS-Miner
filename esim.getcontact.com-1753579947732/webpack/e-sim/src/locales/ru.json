@@ -1,0 +1,576 @@
+export default {
+  "Login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2B>@87>20BLAO"])},
+  "Data Plans": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""0@8D=K5 ;0=K"])},
+  "Data without border at yourfingertips {quantity} Travel destinations": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0<K9 ;53:89 A?>A>1 >AB020BLAO ?>4:;NG5==K<8 : =B5@=5BC 2> 2@5<O 0H8E ?CB5H5AB289"])},
+  "Search your destination": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">8A: "0@8D=KE 0:5B>2"])},
+  "Countries": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B@0=K"])},
+  "Download Getcontact to manage and top up your eSIM anytime, anywhere": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!:0G09B5 Getcontact 4;O C?@02;5=8O 8 ?>?>;=5=8O 0H59 eSIM 2 ;N1>5 2@5<O, 2 ;N1>< <5AB5"])},
+  "Getcontact": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact"])},
+  "Getcontact Web": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact Web"])},
+  "Premium ve Tariffs": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Premium 8 "0@8DK"])},
+  "Features": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!!""])},
+  "Success Story": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB>@88 CA?5E0"])},
+  "About Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">4@>1=55"])},
+  "Career": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@L5@0"])},
+  "Help": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><>IL"])},
+  "Support Center": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'0>"])},
+  "Manage Profile Privacy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#?@02;5=85 :>=D845=F80;L=>ABLN ?@>D8;O"])},
+  "Report a Problem": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!>>1I8BL > ?@>1;5<5"])},
+  "Contact Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!2O68B5AL A =0<8"])},
+  "Legal Terms": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0I8B0 40==KE"])},
+  "Privacy Policy / GDPR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Privacy Policy / GDPR"])},
+  "Terms of Service": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H8 CA;>28O >1A;C6820=8O"])},
+  "Purchasing Policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 ?>;8B8:0 ?>:C?>:"])},
+  "Email": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-;5:B@>==0O ?>GB0"])},
+  "footer.copyright": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2B>@A:85 ?@020 © 2016-2023 Getverify LDA. A5 ?@020 70I8I5=K. Getcontact" O2;O5BAO 70@538AB@8@>20==>9 <0@:>9."])},
+  "Secure Checkout": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["57>?0A=0O ?;0B0"])},
+  "Go to eSIM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@59B8 : eSIM"])},
+  "Select plan and continue": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K15@8B5 ?;0= 8 ?@>4>;68B5"])},
+  "Login or Register": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">9B8 8;8  538AB@0F8O"])},
+  "Google login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">9B8 G5@57 Google"])},
+  "Facebook login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">9B8 G5@57 Facebook"])},
+  "Apple login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">9B8 G5@57 Apple"])},
+  "or": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8;8"])},
+  "Enter Your Email Address": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2548B5 0HC -;5:B@>==CN >GBC"])},
+  "Continue": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>4>;68BL"])},
+  "Card Number": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><5@ 0@BK"])},
+  "Name On The Card": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<O =0 0@B5"])},
+  "MM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""])},
+  "YY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""])},
+  "CVV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["CVV"])},
+  "Complete Payment": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?;0B8BL"])},
+  "{amount} GB": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize([_interpolate(_named("amount")), " "])},
+  "{day} Day Valid": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize(["59AB28B5;L=> ", _interpolate(_named("day")), " =59"])},
+  "{day} Days": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize([_interpolate(_named("day")), " =59"])},
+  "{day} Day": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize([_interpolate(_named("day")), " ,"])},
+  "Bundle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=4;"])},
+  "{month} month Getcontact Premium": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize([_interpolate(_named("month")), " <5AOF52 Getcontact Premium"])},
+  "Back to Plans": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">72@0B8BLAO : ;0=0<"])},
+  "eSIM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["eSIM"])},
+  "When you clicked Payment Complete Button": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">340 K =068<05B5 =0 =>?:C ?;0B0 !>25@H5=0"])},
+  "When you clicked Update Button": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">340 K =068<05B5 =0 :=>?:C 1=>28BL"])},
+  "Update card": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1=>28BL 0@BC"])},
+  "Term of Use": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#A;>28O A?>;L7>20=8O"])},
+  "Privacy Policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;8B8:0 > >=D845=F80;L=>AB8"])},
+  "you are deemed to have accepted": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AG8B05BAO, GB> K ?@8=O;8"])},
+  "When you clicked Add Button": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">340 K =068<05B5 =0 :=>?:C >1028BL"])},
+  "3rd Party Integration Service Providers": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B>@>==85 ?>AB02I8:8 CA;C3 8=B53@0F88"])},
+  "Account Information": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=D>@<0F8O >1 ::0C=B5"])},
+  "Saved Card": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!>E@0=5==0O 0@B0"])},
+  "Logout": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K9B8"])},
+  "Follow": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!;54>20BL"])},
+  "My eSIM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">8 eSIM"])},
+  "Install an eSIM on your Device": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#AB0=>28BL eSIM =0 0H5 #AB@>9AB2>"])},
+  "This plan can only be purchased through the <b>eSIM io</b> mobile application.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["This plan can only be purchased through the <b>eSIM io</b> mobile application."])},
+  "<b>eSIM.getcontact.com</b> service is available in the <b>eSIM.io</b> application.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<b>eSIM.getcontact.com</b> service is available in the <b>eSIM.io</b> application."])},
+  "Scan the code to download the eSIM.io application.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Scan the code to download the eSIM.io application."])},
+  "Go to the application": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Go to the application"])},
+  "QR Code": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["QR >4"])},
+  "Manual": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=C0;L=>"])},
+  "Manual Installation": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=C0;L=0O #AB0=>2:0"])},
+  "Remaining Data": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB02H89AO =B5@=5B"])},
+  "My Packages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">8 0:5BK"])},
+  "Available Top-up Packages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">ABC?=K5 0:5BK >?>;=5=8O"])},
+  "Installation Steps": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(038 #AB0=>2:8"])},
+  "<b>Important: eSIM</b> can only be installed once.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<b>06=>: eSIM</b> <>6=> CAB0=>28BL B>;L:> >48= @07."])},
+  "<b>Do NOT DELETE/REMOVE</b> your eSIM from your device after successful installation": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<b>  #/"/!" "</b> 0HC eSIM A 0H53> CAB@>9AB20 ?>A;5 CA?5H=>9 CAB0=>2:8."])},
+  "QR Code Installation": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#AB0=>2:0 A QR >4><"])},
+  "Install your eSIM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#AB0=>28B5 0HC eSIM"])},
+  "Installation Instructions": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=AB@C:F88 ?> #AB0=>2:5"])},
+  "To manually activate the eSIM on your eSIM capable device you need to print or display this QR code on your device": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["BA:0=8@C9B5 QR :>4, GB>1K 0:B828@>20BL 0HC eSIM."])},
+  "Do not remove your eSIM from your device After successful installation": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5 C40;O9B5 0HC eSIM A 0H53> CAB@>9AB20 >A;5 CA?5H=>9 CAB0=>2:8"])},
+  "To manually activate the eSIM on your eSIM capable device": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";O <0=C0;L=>9 0:B820F88 eSIM =0 0H5<, ?>4E>4OI8< 4;O eSIM CAB@>9AB25"])},
+  "Please copy this information for manually installing the eSIM your device. é Make sure your device has a stable internet connection": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!:>?8@C9B5 MB8 40==K5 4;O <0=C0;L=>9 CAB0=>2:8 eSIM =0 0H5< CAB@>9AB25. #1548B5AL, GB> 0H5 CAB@>9AB2> 8<55B AB018;L=>5 A>548=5=85 A 8=B5@=5B><."])},
+  "SM-DP-ADDRESS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["SM-DP- !"])},
+  "ACTIVATION CODE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" "&"])},
+  "Thanks": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!?0A81>"])},
+  "Your plan is ready to use.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 eSIM 3>B>20 : 8A?>;L7>20=8N."])},
+  "Details have been sent to:": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">4@>1=0O 8=D>@<0F8O 1K;0 >B?@02;5=0 =0 0HC M;5:B@>==CN ?>GBC:"])},
+  "If you wish, you can manage your eSIM installation from the Getcontact Mobile application.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["025@H8B5 CAB0=>2:C, GB>1K =0G0BL ?>;L7>20BLAO 0H59 eSIM."])},
+  "Download Getcontact": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!:0G0BL Getcontact"])},
+  "First Name": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<O"])},
+  "Last Name": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$0<8;8O"])},
+  "Email Address": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-;5:B@>==0O ?>GB0"])},
+  "You dont have any credit card saved yet.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["# 0A =5B A>E@0=5==>9 :@548B=>9 :0@BK."])},
+  "Add Card": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">1028BL 0@BC"])},
+  "Back": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0704"])},
+  "Expiry Date": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!@>: 59AB28O:"])},
+  "Purchase History": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB>@8O >:C?>:"])},
+  "Actions": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["59AB28O"])},
+  "Status": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B0BCA"])},
+  "Active": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([":B82=K9"])},
+  "Expired": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB5:"])},
+  "Pending": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["68405BAO"])},
+  "Country": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B@0=0"])},
+  "Data": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""0@8D"])},
+  "Validity": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@8>4 459AB28O"])},
+  "Price": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["&5=0"])},
+  "Details": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5B0;8"])},
+  "Show All Packages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">:070BL A5 0:5BK"])},
+  "Would you like to Purchase a new eSIM ?": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%>B8B5 ;8 K ?@8>1@5AB8 =>2CN eSIM?"])},
+  "Purchase an eSIM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C?8BL A59G0A"])},
+  "Log in / Sign up": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">9B8 /  538AB@0F8O"])},
+  "Language": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["/7K:"])},
+  "Back to Packages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">72@0B8BLAO : 0:5B0<"])},
+  "Are you sure you want to delete your card?": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K C25@5=K, GB> E>B8B5 C40;8BL 0HC :0@BC?"])},
+  "Yes": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0"])},
+  "No": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5B"])},
+  "An error occurred. Please try again.": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Expires on {date}": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize(["0:>=G8BAO ", _interpolate(_named("date"))])},
+  "Update": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1=>28BL"])},
+  "Copied!": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!:>?8@>20=>!"])},
+  "eSIM Detail": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["03@C78BL eSIM"])},
+  "my-esim-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["# 0A =5B eSIM ?;0=0"])},
+  "installation-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K <>65B5 C?@02;OBL ?@8>1@5B5==K<8 ?;0=0<8 745AL."])},
+  "add-saved-card-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">340 K 4>102;O5B5 =>2CN :0@BC, K C2848B5 ?>4@>1=>AB8 > A>E@0=5==>9 :0@B5 745AL."])},
+  "saved-card-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 A>E@0=5==0O :0@B0"])},
+  "You have successfully logged in. Redirecting...": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K CA?5H=> 2>H;8. 5@5=0?@02;5=85..."])},
+  "Please fill in your name and surname to continue": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">60;C9AB0, 22548B5 0H8 8<O 8 D0<8;8N, GB>1K ?@>4>;68BL"])},
+  "Local": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5AB=K9"])},
+  "Regional": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 538>=0;L=K9"])},
+  "Global": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";>10;L=89"])},
+  "back-to-home": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0704 : ;02=>9 !B@0=8F5"])},
+  "404.subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B@0=8F0, :>B>@CN K 8I5B5, =5 =0945=0."])},
+  "404.title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["404 - !B@0=8F0 =5 0945=0"])},
+  "login.name-label": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H8 <O 8 $0<8;8O"])},
+  "packages.regional-title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 538>=0;L=K5 eSIM"])},
+  "packages.global-title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";>10;L=K5 eSIM"])},
+  "packages.local-tab": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5AB=K5 eSIM"])},
+  "packages.regional-tab": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 538>=0;L=K5 eSIM"])},
+  "packages.global-tab": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";>10;L=K5 eSIM"])},
+  "packages.regional": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 538>=0;L=K9"])},
+  "packages.global": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";>10;L=K9"])},
+  "packages.local": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5AB=K9"])},
+  "packages.supported-countries-modal.title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">445@68205<K5 !B@0=K"])},
+  "packages.supported-countries-modal.subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" :0:8E AB@0=0E O A<>3C 8A?>;L7>20BL <>9 ;>10;L=K9 ?;0=?"])},
+  "packages.supported-countries-modal.search-placeholder": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">8A: !B@0="])},
+  "installation.local-data-plan": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5AB=K5 "0@8D=K5 ;0=K"])},
+  "installation.regional-data-plan": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 538>=0;L=K5 "0@8D=K5 ;0=K"])},
+  "installation.global-data-plan": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";>10;L=K5 "0@8D=K5 ;0=K"])},
+  "installation.qr-info-text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K =5 A<>65B5 ?><5=OBL CAB@>9AB2> ?>A;5 CA?5H=>9 CAB0=>2:8. >MB><C, =5 C40;O9B5 0:B82=CN eSIM A 0H53> CAB@>9AB20."])},
+  "installation.manual-info-text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K =5 A<>65B5 ?><5=OBL CAB@>9AB2> ?>A;5 CA?5H=>9 CAB0=>2:8. >MB><C, =5 C40;O9B5 0:B82=CN eSIM A 0H53> CAB@>9AB20."])},
+  "installation.detail-info-text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K =5 A<>65B5 ?><5=OBL CAB@>9AB2> ?>A;5 CA?5H=>9 CAB0=>2:8. >MB><C, =5 C40;O9B5 0:B82=CN eSIM A 0H53> CAB@>9AB20."])},
+  "installation.qr-installation-step-1": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1. 0AB@>9:8 > !>B>20O / >18;L=0O A5BL > >1028BL !>B>2K9/>18;L=K9 ;0=."])},
+  "installation.qr-installation-step-2": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2. !:0=8@C9B5 QR :>4."])},
+  "installation.qr-installation-step-3": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["3.>4B25@48B5 45B0;8 ?;0=0 eSIM."])},
+  "installation.qr-installation-step-4": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4. ><5BLB5 eSIM."])},
+  "installation.manual-installation-step-1": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1. 5@5948B5 2 0AB@>9:8 > !>B>20O/<>18;L=0O A2O7L > >1028BL B0@8D=K5 ?;0=K A>B>2>9/<>18;L=>9 A2O78"])},
+  "installation.manual-installation-step-2": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2. 06<8B5 =0 25AB8 @CG=CN"])},
+  "installation.manual-installation-step-3": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["3. 2548B5 0H SM-DP-4@5A 8 >4 :B828@>20=8O"])},
+  "installation.manual-installation-step-4": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["4. 06<8B5 =0 >1028BL !>B>2K9 ;0="])},
+  "installation.manual-installation-step-5": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5. B<5BLB5 eSIM"])},
+  "packages.supported-countries-modal.global-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" :0:8E AB@0=0E O A<>3C 8A?>;L7>20BL <>9 ;>10;L=K9 ?;0=?"])},
+  "packages.supported-countries-modal.regional-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" :0:8E AB@0=0E O A<>3C 8A?>;L7>20BL <>9  538>=0;L=K9 ?;0=?"])},
+  "packages.supported-countries-modal.local-subtitle": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["45 O A<>3C 8A?>;L7>20BL <>9 5AB=K9 ?;0=?"])},
+  "This data plan can be used in {count} destinations": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize(["-B>B B0@8D=K9 ?;0= <>6=> 8A?>;L7>20BL 2 ", _interpolate(_named("count")), " <5AB0E"])},
+  "cookiepolicy.description": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K 8A?>;L7C5< 70:>==K5 D09;K :C:8 (cookie), GB>1K C;CGH8BL ?>;L7>20=85."])},
+  "cookiepolicy.description2": (ctx) => {const { normalize: _normalize, interpolate: _interpolate, named: _named } = ctx;return _normalize(["C:8 8 ", _interpolate(_named("policy")), ", :>B>@K5 <K 8A?>;L7C5<."])},
+  "cookiepolicy.cookiepolicy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;8B8:0 :C:8"])},
+  "cookiepolicy.policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 ?>;8B8:0"])},
+  "homepage.banner.image.text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C?8B5 ?;0= eSIM 4;O ?>574:8 2 0B0@ =0 '5<?8>=0B <8@0 ?> DCB1>;C FIFA!"])},
+  "homepage.banner.button.text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C?8B5 !59G0A"])},
+  "400014": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=0O M;5:B@>==0O ?>GB0"])},
+  "400601": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=>5 <O"])},
+  "400602": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=0O $0<8;8O"])},
+  "500000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1I0O >H81:0"])},
+  "400010": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>25@LB5 40==K5, :>B>@K5 K 225;8, 8 ?>?@>1C9B5 5I5 @07."])},
+  "400008": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400009": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400011": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400220": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400221": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400222": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "500221": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O 70:070. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400005": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0."])},
+  "404001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "401002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "400002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=K9 ?0:5B. >60;C9AB0, ?>?@>1C9B5 4@C3>9 ?0:5B."])},
+  "400003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400004": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400006": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=0O :@548B=0O :0@B0."])},
+  "400007": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["52>7<>6=> =0G0BL =>2CN ?>4?8A:C, B0: :0: C65 8<55BAO 0:B82=0O ?>4?8A:0."])},
+  "400012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400013": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400015": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?@>F5AA5 2>72@0B0 A@54AB2."])},
+  "500001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "500002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 ?@8 A>740=88 ?>4?8A:8. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "500003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O A>E@0=5=8O :0@BK. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "C0000000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0, A2O70==0O A >?;0B>9. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "400223": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5 =0945= ?>4E>4OI89 ?0:5B. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "500220": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O ?;0B560. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_404001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "Z_401002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "Z_400002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=K9 ?0:5B. >60;C9AB0, ?>?@>1C9B5 4@C3>9 ?0:5B."])},
+  "Z_400003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400004": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400005": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 2K?>;=5=0."])},
+  "Z_400006": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=0O :@548B=0O :0@B0."])},
+  "Z_400007": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["52>7<>6=> =0G0BL =>2CN ?>4?8A:C, B0: :0: C65 8<55BAO 0:B82=0O ?>4?8A:0."])},
+  "Z_400008": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400009": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400010": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400011": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400013": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400014": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400015": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?@>F5AA5 2>72@0B0 A@54AB2."])},
+  "Z_500000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_500001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2 ?;0B56=>9 A8AB5<5. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_500002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 ?@8 A>740=88 ?>4?8A:8. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_500003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O A>E@0=5=8O :0@BK. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "Z_C0000000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0, A2O70==0O A >?;0B>9. >60;C9AB0, ?>?@>1C9B5 ?>765."])},
+  "Z_400220": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400221": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400222": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_400223": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5 =0945= ?>4E>4OI89 ?0:5B. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_500220": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O ?;0B560. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_500221": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O 70:070. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_E0000027": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K AB>;:=C;8AL A =5:>B>@K<8 =5?@542845==K<8 87<5=5=8O<8 2 =0H8E >?5@0F8OE 2 20H5< @538>=5. 4=0:> 2 =0AB>OI55 2@5<O <K @01>B05< =04 B5<, GB>1K @5H8BL 20H 70?@>A :0: <>6=> A:>@55."])},
+  "Z_E0000000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O ?;0B560. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "E0000027": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K AB>;:=C;8AL A =5:>B>@K<8 =5?@542845==K<8 87<5=5=8O<8 2 =0H8E >?5@0F8OE 2 20H5< @538>=5. 4=0:> 2 =0AB>OI55 2@5<O <K @01>B05< =04 B5<, GB>1K @5H8BL 20H 70?@>A :0: <>6=> A:>@55."])},
+  "E0000000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@>87>H;0 >H81:0 2> 2@5<O ?;0B560. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "400224": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5A>2<5AB8<>ABL ?>;L7>20B5;O 8 SIM ID"])},
+  "400340": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=K9 =><5@ :@548B=>9 :0@BK"])},
+  "400341": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5459AB28B5;L=>5 8<O =0 :@548B=>9 :0@B5"])},
+  "400342": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 <5AOF 459AB28O :@548B=>9 :0@BK"])},
+  "400343": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 3>4 459AB28O :@548B=>9 :0@BK"])},
+  "400344": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 :>4 157>?0A=>AB8 :@548B=>9 :0@BK"])},
+  "403033": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=0O 8=D>@<0F8O >1 0::0C=B5"])},
+  "500015": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["H81:0 ?@8 ?>4B25@645=88"])},
+  "403002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5<O A50=A0 8AB5:;>. >60;C9AB0, ?>?@>1C9B5 2>9B8 A=>20."])},
+  "400000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H 70?@>A =5 1K; 2K?>;=5= 87-70 =54>AB0NI59 8=D>@<0F88. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "403012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><5@ >H81>G=K9. >60;C9AB0, A2O68B5AL A =0<8"])},
+  "Z_E0000001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?5@0F8O7025@H8;0AL 157 =060B8O =0 :=>?:C ?;0B0."])},
+  "Z_E0000002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["7-70 =54>AB0B>G=>3> ;8<8B0 =0 :0@B5 B@0=70:F8O =5 1K;0 7025@H5=0 CA?5H=>."])},
+  "Z_E0000003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 A>25@H8;0AL, B0: :0: 25@8D8:0F8O ?> 157>?0A=>AB8 1K;0 =5CA?5H=0."])},
+  "Z_E0000004": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 =5CA?5H=0. >60;C9AB0, A2O68B5AL A 0H8< 10=:><."])},
+  "Z_E0000005": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 =5CA?5H=0 87-70 B5E=8G5A:>9 >H81:8. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_E0000006": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 >B<5=5=0 ?>;L7>20B5;5<."])},
+  "Z_E0000007": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 :0@B0 70:@KB0 4;O ?>:C?>: 2 A5B8. >60;C9AB0, A2O68B5AL A 0H8< 10=:><."])},
+  "Z_E0000008": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 =5CA?5H=0 87-70 >;8B8:8 ?> 57>?0A=>AB8."])},
+  "Z_E0000009": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 =5CA?5H=0 87-70 22545==>3> =525@=>3> =><5@0 :0@BK."])},
+  "Z_E0000010": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 =5CA?5H=0 87-70 =525@=>9 40BK 8AB5G5=8O A@>:0 :0@BK."])},
+  "Z_E0000011": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?5@0F8O 1K;0 ?@5@20=0, ?>B><C GB> ?>;L7>20B5;L =5 ?>4B25@48; B@0=70:F8N."])},
+  "Z_E0000012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?5@0F8O 1K;0 ?@5@20=0 87-70 ?@52KH5=8O ;8<8B0 B@0=70:F89."])},
+  "Z_E0000013": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 7025@H8;0AL 87-70 =525@=>9 >1I59 AC<<K."])},
+  "Z_E0000014": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 ?>4?8A:0 =5 1K;0 0:B828@>20=0, B0: :0: 25@8D8:0F8O 157>?0A=>AB8 3DS =5 1K;0 7025@H5=0."])},
+  "Z_E0000015": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 >B:;>=5=0 0H8< 10=:><."])},
+  "Z_E0000016": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O 1K;0 >B:;>=5=0 0H8< 10=:><. >60;C9AB0, A2O68B5AL A 0H8< 10=:><."])},
+  "Z_E0000017": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K 225;8 =5?@028;L=K9 :>4 CVV. >60;C9AB0, ?@>25@LB5 :>4 8 ?>?@>1C9B5 A=>20."])},
+  "Z_E0000018": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@548B=0O :0@B0 =5 1K;0 ?>4B25@645=0. >60;C9AB0, ?@>25@LB5 8 ?>?@>1C9B5 A=>20."])},
+  "Z_E0000019": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!@>: 8A?>;L7>20=8O 0H59 :@548B=>9 :0@BK 8AB5:. >60;C9AB0, ?>?@>1C9B5 4@C3CN :0@BC."])},
+  "Z_E0000020": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 7025@H8;0AL, B0: :0: K 225;8 =525@=K9 :>4 ?>4B25@645=8O =5A:>;L:> @07."])},
+  "Z_E0000021": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?5@0F8O 1K;0 =5CA?5H=0 87-70 B5E=8G5A:>9 >H81:8. >60;C9AB0, ?>?@>1C9B5 A=>20."])},
+  "Z_E0000022": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0H0 :@548B=0O :0@B0 =5 ?@8=8<05BAO 459AB2CNI8< ?@>20945@>< ?;0B56=KE CA;C3. >60;C9AB0, ?>?@>1C9B5 4@C3CN :0@BC."])},
+  "Z_E0000023": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@548B=0O :0@B0, :>B>@CN K 8A?>;L7C5B5, =5 1K;0 ?>4B25@645=0. >60;C9AB0, ?>?@>1C9B5 4@C3CN :@548B=CN :0@BC."])},
+  "Z_E0000024": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K 225;8 =5?@028;L=K9 3>4 8AB5G5=8O A@>:0 :@548B=>9 :0@BK."])},
+  "Z_E0000025": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K 225;8 =5?@028;L=K9 <5AOF 8AB5G5=8O A@>:0 :@548B=>9 :0@BK."])},
+  "Z_E0000026": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K 225;8 =5?@028;L=CN 40BC 8AB5G5=8O A@>:0 :@548B=>9 :0@BK."])},
+  "Z_F0000000": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000002": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000003": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000004": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000005": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000006": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000007": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000008": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000009": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_F0000010": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O =5 ?@>H;0. >60;C9AB0, A2O68B5AL A> !;C61>9 >445@6:8."])},
+  "Z_S0000001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@0=70:F8O ?@>H;0 CA?5H=>."])},
+  "Z_R0000001": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0< A;54C5B ?5@59B8 ?> AAK;:5 redirectUrl 4;O B@0=70:F88."])},
+  "order-status": {
+    "REFUND": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";0B56 1K; 2>72@0I5=."])},
+    "FINISHED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB5:."])},
+    "ORDER_FAIL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["H81:0 ?@8 >?@545;5=88."])},
+    "PAYMENT_FAIL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["H81:0 ?@8 >?;0B5."])},
+    "COMPLETED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([":B82=K9."])},
+    "DELETED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#40;5=."])},
+    "IN_PROGRESS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["68405BAO."])},
+    "STARTED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0:5B A>7405BAO."])},
+    "PENDING_COMPLETE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["68405BAO 7025@H5=85."])},
+    "DEPLETED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8<8B 0:>=G8;AO"])},
+    "EXPIRED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB5:"])}
+  },
+  "countries": {
+    "AF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["D30=8AB0="])},
+    "AL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";10=8O"])},
+    "DZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";68@"])},
+    "AS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<5@8:0=A:>5 !0<>0"])},
+    "AD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=4>@@0"])},
+    "AO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=3>;0"])},
+    "AI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=38;LO"])},
+    "AQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=B0@:B840"])},
+    "AG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=B83C0 8 0@1C40"])},
+    "AR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@35=B8=0"])},
+    "AM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@<5=8O"])},
+    "AW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@C10"])},
+    "AU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2AB@0;8O"])},
+    "AT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2AB@8O"])},
+    "AZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["75@109460="])},
+    "BS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["030<K"])},
+    "BH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0E@59="])},
+    "BD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=3;045H"])},
+    "BB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@104>A"])},
+    "BY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5;0@CAL"])},
+    "BE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5;L38O"])},
+    "BZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5;87"])},
+    "BJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5=8="])},
+    "BM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@<C4A:85 >-20"])},
+    "BT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["CB0="])},
+    "BO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;828O"])},
+    "BA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">A=8O 8 5@F53>28=0"])},
+    "BW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">BA20=0"])},
+    "BR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@078;8O"])},
+    "IO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@8B0=A:0O B5@@8B>@8O 2 =489A:>< >:50=5"])},
+    "VG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8@38=A:85 >-20 (5;8:>1@8B0=8O)"])},
+    "BN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@C=59-0@CAA0;0<"])},
+    "BG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;30@8O"])},
+    "BF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C@:8=0-$0A>"])},
+    "BI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C@C=48"])},
+    "KH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0<1>460"])},
+    "CM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0<5@C="])},
+    "CA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=040"])},
+    "CV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["01>-5@45"])},
+    "KY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB@>20 09<0="])},
+    "CF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["&5=B@0;L=>-D@8:0=A:0O  5A?C1;8:0"])},
+    "TD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'04"])},
+    "CL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'8;8"])},
+    "CN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8B09"])},
+    "CX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-2  >645AB20"])},
+    "CC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">:>A>2K5 >-20"])},
+    "CO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;C<18O"])},
+    "KM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><>@K"])},
+    "CK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["AB@>20 C:0"])},
+    "CR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">AB0- 8:0"])},
+    "HR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["%>@20B8O"])},
+    "CU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C10"])},
+    "CW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["N@0A0>"])},
+    "CY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8?@"])},
+    "CZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'5E8O"])},
+    "CD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5<>:@0B8G5A:0O  5A?C1;8:0 >=3>"])},
+    "DK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=8O"])},
+    "DJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["681CB8"])},
+    "DM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><8=8:0"])},
+    "DO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["><8=8:0=A:0O  5A?C1;8:0"])},
+    "TL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">AB>G=K9 "8<>@"])},
+    "EC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-:204>@"])},
+    "EG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["38?5B"])},
+    "SV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0;L204>@"])},
+    "GQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-:20B>@80;L=0O 28=5O"])},
+    "ER": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-@8B@5O"])},
+    "EE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-AB>=8O"])},
+    "ET": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-D8>?8O"])},
+    "FK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$>;:;5=4A:85 >-20"])},
+    "FO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$0@5@A:85 >-20"])},
+    "FJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$8468"])},
+    "FI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$8=;O=48O"])},
+    "FR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$@0=F8O"])},
+    "GF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$@0=FC7A:0O 280=0"])},
+    "PF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$@0=FC7A:0O >;8=578O"])},
+    "GA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["01>="])},
+    "GM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0<18O"])},
+    "GE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@C78O"])},
+    "DE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@<0=8O"])},
+    "GH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=0"])},
+    "GI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["81@0;B0@"])},
+    "GR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5F8O"])},
+    "GL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5=;0=48O"])},
+    "GD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@5=040"])},
+    "GP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["2045;C?0"])},
+    "GU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C0<"])},
+    "GT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["20B5<0;0"])},
+    "GG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@=A8"])},
+    "GN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["28=5O"])},
+    "GW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["28=5O-8A0C"])},
+    "GY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["090=0"])},
+    "HT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["08B8"])},
+    "HN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">=4C@0A"])},
+    "HK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">=:>=3 (! )"])},
+    "HU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5=3@8O"])},
+    "IS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A;0=48O"])},
+    "IN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=48O"])},
+    "ID": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=4>=578O"])},
+    "IR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@0="])},
+    "IQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@0:"])},
+    "IE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["@;0=48O"])},
+    "IM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-2 M="])},
+    "IL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["7@08;L"])},
+    "IT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["B0;8O"])},
+    "CI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">B-42C0@"])},
+    "JM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["/<09:0"])},
+    "JP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["/?>=8O"])},
+    "JE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["65@A8"])},
+    "JO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">@40=8O"])},
+    "KZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["070EAB0="])},
+    "KE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5=8O"])},
+    "KI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8@810B8"])},
+    "XK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">A>2>"])},
+    "KW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;0C"])},
+    "KG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8@3878O"])},
+    "LA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0>A"])},
+    "LV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0B28O"])},
+    "LB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["820="])},
+    "LS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5A>B>"])},
+    "LR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["815@8O"])},
+    "LY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["828O"])},
+    "LI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8EB5=HB59="])},
+    "LT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8B20"])},
+    "LU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["N:A5<1C@3"])},
+    "MO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0:0> (! )"])},
+    "MK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!525@=0O 0:54>=8O"])},
+    "MG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["04030A:0@"])},
+    "MW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;028"])},
+    "MY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;0978O"])},
+    "MV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;L482K"])},
+    "ML": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;8"])},
+    "MT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;LB0"])},
+    "MH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@H0;;>2K AB@>20"])},
+    "MQ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@B8=8:0"])},
+    "MR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["02@8B0=8O"])},
+    "MU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["02@8:89"])},
+    "YT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["09>BB0"])},
+    "MX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5:A8:0"])},
+    "FM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$545@0B82=K5 (B0BK 8:@>=5788"])},
+    "MD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;4>20"])},
+    "MC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">=0:>"])},
+    "MN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">=3>;8O"])},
+    "ME": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'5@=>3>@8O"])},
+    "MS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">=BA5@@0B"])},
+    "MA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@>::>"])},
+    "MZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">70<18:"])},
+    "MM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["LO=<0 (8@<0)"])},
+    "NA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0<818O"])},
+    "NR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0C@C"])},
+    "NP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5?0;"])},
+    "NL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["845@;0=4K"])},
+    "NC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">20O 0;54>=8O"])},
+    "NZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">20O 5;0=48O"])},
+    "NI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8:0@03C0"])},
+    "NE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["835@"])},
+    "NG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["835@8O"])},
+    "NU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8CM"])},
+    "NF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-2 >@D>;:"])},
+    "KP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" "])},
+    "MP": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!525@=K5 0@80=A:85 >-20"])},
+    "NO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">@2538O"])},
+    "OM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["<0="])},
+    "PK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0:8AB0="])},
+    "PS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0;5AB8=A:85 B5@@8B>@88"])},
+    "PA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=0<0"])},
+    "PG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0?C0  >20O 28=5O"])},
+    "PY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@03209"])},
+    "PE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5@C"])},
+    "PH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["$8;8??8=K"])},
+    "PN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-20 8B:M@="])},
+    "PL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">;LH0"])},
+    "PT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">@BC30;8O"])},
+    "PR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["CM@B>- 8:>"])},
+    "QA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0B0@"])},
+    "CG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 5A?C1;8:0 >=3>"])},
+    "RE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 5N=L>="])},
+    "RO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" C<K=8O"])},
+    "RU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" >AA8O"])},
+    "RW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" C0=40"])},
+    "BL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=-0@B5;5<8"])},
+    "SH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-2 !2. ;5=K"])},
+    "KN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=B-8BA 8 528A"])},
+    "LC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=B-NA8O"])},
+    "MF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=-0@B5="])},
+    "PM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=-L5@ 8 8:5;>="])},
+    "VC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=B-8=A5=B 8 @5=048=K"])},
+    "WS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0<>0"])},
+    "SM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0=-0@8=>"])},
+    "ST": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0=-"><5 8 @8=A8?8"])},
+    "SA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!0C4>2A:0O @028O"])},
+    "SN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5=530;"])},
+    "RS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!5@18O"])},
+    "SC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!59H5;LA:85 AB@>20"])},
+    "SL": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!L5@@0-5>=5"])},
+    "SG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!8=30?C@"])},
+    "SX": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!8=B-0@B5="])},
+    "SK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!;>20:8O"])},
+    "SI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!;>25=8O"])},
+    "SB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!>;><>=>2K AB@>20"])},
+    "SO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!><0;8"])},
+    "ZA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([".6=>-D@8:0=A:0O  5A?C1;8:0"])},
+    "KR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 5A?C1;8:0 >@5O"])},
+    "SS": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([".6=K9 !C40="])},
+    "ES": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["A?0=8O"])},
+    "LK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(@8-0=:0"])},
+    "SD": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!C40="])},
+    "SR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!C@8=0<"])},
+    "SJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(?8F15@35= 8 /=-095="])},
+    "SZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-A20B8=8"])},
+    "SE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(25F8O"])},
+    "CH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(259F0@8O"])},
+    "SY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!8@8O"])},
+    "TW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""0920=L"])},
+    "TJ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""0468:8AB0="])},
+    "TZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""0=70=8O"])},
+    "TH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""08;0=4"])},
+    "TG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["">3>"])},
+    "TK": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["">:5;0C"])},
+    "TO": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["">=30"])},
+    "TT": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""@8=8404 8 ">103>"])},
+    "TN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""C=8A"])},
+    "TR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""C@F8O"])},
+    "TM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""C@:<5=8AB0="])},
+    "TC": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">-20 "Q@:A 8 09:>A"])},
+    "TV": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([""C20;C"])},
+    "VI": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8@38=A:85 >-20 (!()"])},
+    "UG": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#30=40"])},
+    "UA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#:@08=0"])},
+    "AE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["-"])},
+    "GB": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5;8:>1@8B0=8O"])},
+    "US": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!>548=5==K5 (B0BK <5@8:8"])},
+    "UY": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#@C3209"])},
+    "UZ": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#715:8AB0="])},
+    "VU": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=C0BC"])},
+    "VA": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0B8:0="])},
+    "VE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5=5ACM;0"])},
+    "VN": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["L5B=0<"])},
+    "WF": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#>;;8A 8 $CBC=0"])},
+    "EH": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0?04=0O !0E0@0"])},
+    "YE": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5<5="])},
+    "ZM": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0<18O"])},
+    "ZW": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8<10125"])}
+  },
+  "ACCEPTED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" /""])},
+  "FULFILLING": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["+/"!/"])},
+  "COMPLETED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["C ("])},
+  "FAILED": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#!("])},
+  "page-titles": {
+    "app-name": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact eSIM"])},
+    "homepage": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([";02=0O !B@0=8F0"])},
+    "login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["E>4"])},
+    "login-by-verifykit": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["E>4 A VerifyKit"])},
+    "country-packages": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0:5BK 4;O !B@0="])},
+    "payment": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["?;0B0 0:5B>2"])},
+    "payment-success": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["#A?5H=K9 ;0B56"])},
+    "installation-index": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5B0;8 ?> #AB0=>2:5"])},
+    "installation-qr": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["QR 4;O #AB0=>2:8"])},
+    "installation-manual": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0=C0;L=0O #AB0=>2:0"])},
+    "account-information": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=D>@<0F8O >1 ::0C=B5"])},
+    "saved-cards-index": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!>E@0=5==K5 0@BK"])},
+    "saved-cards-add": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">1028BL 2 !>E@0=5==K5 0@BK"])},
+    "saved-cards-edit": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([" 540:B8@>20BL !>E@0=5==K5 0@BK"])},
+    "my-esim": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">O eSIM"])},
+    "404-page": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B@0=8F0 =5 0945=0"])}
+  },
+  "credit-card.card-number-invalid": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 =><5@ :0@BK"])},
+  "credit-card.card-owner-invalid": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=>5 8<O =0 :0@B5"])},
+  "credit-card.card-expiration-month-invalid": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 <5AOF 459AB28O :0@BK"])},
+  "credit-card.card-expiration-year-invalid": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 3>4 459AB28O :0@BK"])},
+  "credit-card.card-cvv-invalid": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["525@=K9 :>4 157>?0A=>AB8 :0@BK"])},
+  "saved-cards.add-card-title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">1028BL 0@BC"])},
+  "saved-cards.update-card-title": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["1=>28BL 0@BC"])},
+  "payment-success.order-type-topup-text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["06<8B5 4;O ?>4@>1=>9 8=D>@<0F88 > 0H59 eSIM"])},
+  "saved-cards.add-card-success-message": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@B0 1K;0 CA?5H=> 4>102;5=0."])},
+  "saved-cards.update-card-success-message": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@B0 1K;0 CA?5H=> 87<5=5=0."])},
+  "saved-cards.delete-card-success-message": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0@B0 1K;0 CA?5H=> C40;5=0."])},
+  "general-error-message": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["'B>-B> ?>H;> =5 B0:, ?>?@>1C9B5 A=>20."])},
+  "search-country.empty-state-text": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["!B@0=0 =5 =0945=0"])},
+  "account-information.update-profile-success-message": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["=D>@<0F8O 0H53> ?@>D8;O 1K;0 CA?5H=> >1=>2;5=0."])},
+  "installation.order-does-not-exist": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["0:07, :>B>@K9 K 8I5B5, =5 ACI5AB2C5B."])}
+}

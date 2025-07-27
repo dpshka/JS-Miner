@@ -1,0 +1,11 @@
+export enum ResponseStatusErrorCodes {
+  FORBIDDEN_ERROR = 403,
+  INTERNAL_SERVER_ERROR = 500,
+  FAILURE_CODE = 500000,
+  PROFILE_UPDATE_NAME_ERROR = 400601,
+  PROFILE_UPDATE_LASTNAME_ERROR = 400602,
+}
+
+export enum ResponseStatusUnauthorizedCode {
+  INVALID_TOKEN_ERROR = 401,
+}

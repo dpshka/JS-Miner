@@ -1,0 +1,24 @@
+export default {
+  "Getcontact Web": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact 5G,"])},
+  "Premium ve Tariffs": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Premium en tariewe"])},
+  "Features": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Funksies"])},
+  "Success Story": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Sukses stories"])},
+  "About Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Oor Ons"])},
+  "Career": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Beroep"])},
+  "Help": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Help"])},
+  "Support Center": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Gereelde Vrae"])},
+  "Manage Profile Privacy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Beheer jou Privaat Profiel"])},
+  "Report a Problem": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Rapporteer 'n Probleem"])},
+  "Contact Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Kontak Ons"])},
+  "Legal Terms": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Wettig"])},
+  "Privacy Policy / GDPR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["K*(@/$> (@$?/@!@*@0"])},
+  "Terms of Service": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Ons Diensterme"])},
+  "Purchasing Policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Ons Aankoopbeleid"])},
+  "Google login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Teken in met Google"])},
+  "Facebook login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Teken in met Facebook"])},
+  "Apple login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Teken in met Apple"])},
+  "403012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Nommer fout. Kontak ons asseblief"])},
+  "countries": [
+    
+  ]
+}

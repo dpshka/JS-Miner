@@ -1,0 +1,24 @@
+export default {
+  "Getcontact Web": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Getcontact Web"])},
+  "Premium ve Tariffs": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Premium 0 H0?+"])},
+  "Features": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5?6G7$>"])},
+  "Success Story": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8+2$> @ 9>(?/>"])},
+  "About Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9.>0G ,>0G .G"])},
+  "Career": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["5M/58>/"])},
+  "Help": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["89>/$>"])},
+  "Support Center": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8>.>(M/ *M06M("])},
+  "Manage Profile Privacy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["*(@ *M0K+>2 K*(@/$> *M0,'?$ 0G"])},
+  "Report a Problem": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["8.8M/> @ 0?*K0M 0G"])},
+  "Contact Us": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9.8G 8*0M 0G"])},
+  "Legal Terms": (ctx) => {const { normalize: _normalize } = ctx;return _normalize([">(B(@"])},
+  "Privacy Policy / GDPR": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Informativa sulla privacy / GDPR"])},
+  "Terms of Service": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9.>0@ 8G5> @ 60M$G"])},
+  "Purchasing Policy": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["9.>0@ 0@& (@$?"])},
+  "Google login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Google &M5>0> 2I?( 0G"])},
+  "Facebook login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Facebook &M5>0> 2I?( 0G"])},
+  "Apple login": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["Apple &M5>0> 2I?( 0G"])},
+  "403012": (ctx) => {const { normalize: _normalize } = ctx;return _normalize(["(.M,0 $M0A?d C*/> 9.G 8.M*0M 0G"])},
+  "countries": [
+    
+  ]
+}
